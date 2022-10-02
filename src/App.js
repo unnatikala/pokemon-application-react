@@ -1,6 +1,6 @@
 import React from "react";
 import { Route, Switch } from "react-router-dom";
-import "./App.css";
+
 import PokemonHomePage from "./components/card/PokemonHomePage";
 import PokemonCardDetails from "./components/card/PokemonCardDetails";
 
